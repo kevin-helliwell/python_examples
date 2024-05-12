@@ -1,5 +1,4 @@
 def main():
-
     list1 = [1, 2, 3]
     list2 = [-1, -2, -3]
     list3 = [-1, 2, -3]
@@ -10,4 +9,6 @@ def main():
         sum_list.append(sum(list))
     print(sum_list, min(sum_list), max(sum_list))
     return
+
+
 main()

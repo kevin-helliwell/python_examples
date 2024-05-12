@@ -1,5 +1,3 @@
-
-
 def main():
     john_dict = {
         "name": "John",
@@ -20,10 +18,7 @@ def main():
     # for key, value in john_dict.items():
     #     print(key, value)
 
-
-
-
-
-
     return
+
+
 main()
